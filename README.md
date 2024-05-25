@@ -94,6 +94,7 @@
 
 
 ---
+## ⏳ WakaTime Stats
 
 <p align="center">
   <img alt="GnomGad time"
@@ -103,6 +104,20 @@
 
 ---
 
+## 🥇 LeetCode Stats
+
+<p align="center">
+  <img alt="GnomGad time"
+  src="https://leetcard.jacoblin.cool/GnomGad?theme=dark&font=Source%20Code%20Prol"
+  > 
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=GnomGad&theme=radical)
+<p align="center">
+  <img alt="GnomGad time"
+  src="https://github-profile-trophy.vercel.app/?username=GnomGad&theme=radical"
+  > 
+</p>
