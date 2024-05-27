@@ -117,6 +117,7 @@
 <p align="center">
   <img alt="GnomGad's Codewars" src="https://www.codewars.com/users/GnomGad/badges/large">
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies
