@@ -1,10 +1,9 @@
 <h1 align="center">WELCOME</h1> 
 
-## Total time
-
 [![wakatime](https://wakatime.com/badge/user/acd4725e-5655-414f-9ef4-0a588103f102.svg)](https://wakatime.com/@acd4725e-5655-414f-9ef4-0a588103f102)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=GnomGad.GnomGad)
-
+[![codewars](https://www.codewars.com/users/GnomGad/badges/micro)](https://www.codewars.com/users/GnomGad)
+[![LeetCode user GnomGad](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGnomGad&logo=leetcode&logoColor=yellow)](https://leetcode.com/GnomGad/)
 ---
 ## 🛠️ Skills
 ### Programming Languages
