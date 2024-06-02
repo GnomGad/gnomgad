@@ -100,6 +100,7 @@
   src="https://github-readme-stats.vercel.app/api/wakatime?username=GnomGad&theme=radical"
   > 
 </p>
+
 ---
 
 ## 🥇 LeetCode Stats
@@ -130,5 +131,5 @@
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GnomGad&repo=browser-extension-black-list&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GnomGad&repo=browser-extension-black-list&theme=radical)](https://github.com/GnomGad/browser-extension-black-list)
 
