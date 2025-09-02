@@ -18,7 +18,7 @@
 </div>
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="GitHub stats" width="360" src="https://github-readme-stats.vercel.app/api/?username=GnomGad&custom_title=My+GitHub+Stats&theme=radical&card_width=360">
+        <img alt="GitHub stats" width="355" src="https://github-readme-stats.vercel.app/api/?username=GnomGad&custom_title=My+GitHub+Stats&theme=radical&card_width=355">
     </a>
       <a href="https://github.com/anuraghazra/github-readme-stats">
          <img lt="GitHub stats" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GnomGad&layout=compact&theme=radical&card_width=360"/>
